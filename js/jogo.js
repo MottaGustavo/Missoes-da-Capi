@@ -1,9 +1,3 @@
-// ============================================================
-// Missões da Capi - lógica do jogo
-// As perguntas NÃO ficam mais aqui: estão no index.html, uma <section class="pergunta"> para cada.
-// Este arquivo só lê o HTML e faz funcionar (telas, arrastar, pontuação, áudio).
-// ============================================================
-
 const $ = seletor => document.querySelector(seletor);
 const FASES = ['facil', 'media', 'dificil'];          // fase-facil, fase-media, fase-dificil (fundo da tela)
 const ELEMENTOS = 'assets/img/elementos/';
