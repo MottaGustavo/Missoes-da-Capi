@@ -1,0 +1,57 @@
+ROTEIRO DE ÁUDIOS - MISSÕES DA CAPI
+Formato: MP3 curto, voz calma e animada, falando devagar. Salvar em assets/audio/ com o nome indicado.
+Se um arquivo não existir, o jogo usa a voz do navegador no lugar.
+
+== FALA DE CADA PERGUNTA ==
+q01.mp3  ->  De que cor é a banana? Toque na cor certa.
+q02.mp3  ->  Estoure o balão azul!
+q03.mp3  ->  Qual bichinho faz assim? Au au au!
+q04.mp3  ->  Qual é diferente?
+q05.mp3  ->  Coloque a bola em cima da mesa.
+q06.mp3  ->  Qual grupo tem mais?
+q07.mp3  ->  Leve cada um para a sua cor.
+q08.mp3  ->  Estoure todos os balões vermelhos!
+q09.mp3  ->  Leve cada figura para a sombra dela.
+q10.mp3  ->  Leve cada bichinho para o lugar onde ele mora.
+q11.mp3  ->  Tire a bola de baixo da mesa e coloque na caixa. Depois coloque o gato embaixo da mesa.
+q12.mp3  ->  Raspe a tela e encontre a Capi!
+q13.mp3  ->  Qual grupo tem mais?
+q14.mp3  ->  Qual vem depois?
+q15.mp3  ->  Leve cada bichinho para o lugar onde ele mora.
+q16.mp3  ->  Vamos montar o robô! Coloque cada peça em cima da sombra dela.
+q17.mp3  ->  Coloque o gato embaixo da mesa, a banana dentro da cesta e a bola dentro da caixa.
+q18.mp3  ->  Bata nos blocos com a picareta e vamos contar juntos até achar o diamante!
+q19.mp3  ->  Descubra a senha do cofre. Cada papel mostra um número!
+q20.mp3  ->  Qual grupo tem mais?
+
+Sons de animais (botão Ouvir): som-q03.mp3  ->  Au au au!
+(O q03.mp3 deve ter a pergunta e o som: Qual bichinho faz assim? Au au au!)
+
+== INCENTIVOS (acerto) ==
+acerto-1.mp3 -> Muito bem!
+acerto-2.mp3 -> Isso mesmo!
+acerto-3.mp3 -> Você acertou!
+acerto-4.mp3 -> Que legal!
+acerto-5.mp3 -> Parabéns!
+
+== INCENTIVOS (erro) - bem carinhoso ==
+erro-1.mp3 -> Quase! Você consegue, eu acredito em você!
+erro-2.mp3 -> Essa não era a resposta, mas está tudo bem! Vamos tentar de novo?
+erro-3.mp3 -> Não foi dessa vez, mas você está indo muito bem! Tente de novo!
+erro-4.mp3 -> Tudo bem errar. Eu sei que você consegue!
+
+== ABERTURAS E FIM ==
+missao-1.mp3 -> Oi! Eu sou a Capi! Vamos começar a Missão 1? Eu vou te ajudar!
+missao-2.mp3 -> Muito bem! Agora é a Missão 2! Vamos explorar juntos!
+missao-3.mp3 -> Chegamos na Missão 3, a última! Eu sei que você consegue!
+fim.mp3 -> Parabéns! Você completou todas as missões!
+
+== CONTAGEM DOS BLOCOS (cada batida da picareta) ==
+conta-1.mp3 -> um
+conta-2.mp3 -> dois
+conta-3.mp3 -> três
+conta-4.mp3 -> quatro
+conta-5.mp3 -> cinco
+bloco-vazio.mp3 -> Aqui não tinha nada. Tente outro bloco!
+
+Obs.: perguntas com a mesma fala (6, 13 e 20; 10 e 15) podem usar a mesma gravação copiada com o nome de cada uma.
