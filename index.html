@@ -66,13 +66,39 @@
         <button class="botao botao-verde botao-vamos">Vamos!</button>
     </section>
 
+    <main id="tela-jogo" class="cartao" hidden>
+        <div id="cabecalho"></div>
+
+        <section class="pergunta" id="pergunta-01" data-missao="1" data-tipo="escolha"
+            data-area="Percepção Visual e Sensorial" data-habilidade="Cores" data-resposta="0" hidden>
+            <div class="capi-e-fala">
+                <img class="capi" src="assets/img/capi/feliz.webp" alt="" draggable="false">
+                <div class="balao-fala pequeno">
+                    <p class="fala">De que cor é a banana? Toque na cor certa.</p>
+                    <button class="botao-som-balao botao-ouvir"><img class="desenho" src="assets/emoji/1f50a.svg" alt=""
+                            draggable="false"></button>
+                </div>
+            </div>
+            <div class="area-pergunta">
+                <div class="figura-grande cinza"><img class="desenho" src="assets/img/elementos/banana.webp" alt=""
+                        draggable="false"></div>
+                <div class="linha">
+                    <button class="opcao" data-numero="0" style="background:#ffd60a;border-radius:50%"
+                        aria-label="amarelo"></button>
+                    <button class="opcao" data-numero="1" style="background:#8e44ad;border-radius:50%"
+                        aria-label="roxo"></button>
+                    <button class="opcao" data-numero="2" style="background:#3a86ff;border-radius:50%"
+                        aria-label="azul"></button>
+                </div>
+            </div>
+        </section>
 
 
 
 
 
-    <script src="js/questoes.js"></script>
-    <script src="js/jogo.js"></script>
+        <script src="js/questoes.js"></script>
+        <script src="js/jogo.js"></script>
 </body>
 
 </html>
