@@ -75,7 +75,7 @@ css/style.css
 js/jogo.js
 assets/
   audio/    narração em mp3
-  img/      capi, elementos e ícones
+  img/      capi, elementos, fundos e ícones
   emoji/    emojis em SVG
 ```
 
