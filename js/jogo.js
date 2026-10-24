@@ -1,5 +1,5 @@
 const $ = seletor => document.querySelector(seletor);
-const FASES = ['facil', 'media', 'dificil'];          // fase-facil, fase-media, fase-dificil (fundo da tela)
+const FASES = ['facil', 'media', 'dificil']; 
 const ELEMENTOS = 'assets/img/elementos/';
 
 const MENSAGENS_ACERTO = ['Muito bem!', 'Isso mesmo!', 'Você acertou!', 'Que legal!', 'Parabéns!'];
